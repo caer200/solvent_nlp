@@ -12,7 +12,7 @@ import time
 class SIScraper:
     def __init__(self, doi, saveloc):
         self.doi = doi
-        self.saveloc = saveloc
+        self.saveloc = saveloc  # location to save the downloaded PDF
         self.filename = self.saveloc + "/" + self.doi.replace("/", "_") + ".pdf"
         
         

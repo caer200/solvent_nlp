@@ -7,8 +7,11 @@ from chemdataextractor.doc import Paragraph
 from chemdataextractor.utils import first
 from chemdataextractor.parse.cem import solvent_name, CompoundParser
 
+# this add PE, petroleum ether and H2O to the solvent list of chemdataextractor
 solvent_name = (solvent_name | I("PE") | I("petroleum") + I("ether") | I('H2O'))
 
+
+# creating a model to crystallization
 class Crystallization(BaseModel):
     solvent = StringType()
 
@@ -17,7 +20,7 @@ solvent = (solvent_name + Optional(R('/|and|:|-|&|') + solvent_name))(u'solvent'
 prefix = (R('^(re)?(-)?crystalli[sz](ation|ed)$', re.I) +Optional(T('RB')) + Optional(T('IN')) + Optional(I('a') + Optional(T('CD') + W(":") + T('CD')) + (I('mixture') | I('solution')) + I('of')) + Optional(T('JJ'))+ Optional(R('\[|\(|\{')))
 crys_sol = (prefix + solvent)(u'crys_sol')
 
-
+# creating a parser for crystallization solvent based on the Crystallization model
 class CrySolParser(BaseParser):
     root = crys_sol
 
@@ -30,5 +33,5 @@ class CrySolParser(BaseParser):
         c.crystallization.append(s)
         yield c
 
-
+# adding the crystal solvent parser along with the CompoundParser from chemdataextractor
 Paragraph.parsers = [CompoundParser(), CrySolParser()]
