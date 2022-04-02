@@ -1,4 +1,4 @@
-# Extracting crystallization solvent for literature
+# Extracting crystallization solvent from materials science literature
 The repository contains files for extracting crystallization solvent from supplementary information PDFs using Natural Lanugage Processing (NLP).
 
 # Running the example code.
