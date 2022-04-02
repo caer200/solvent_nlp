@@ -1,0 +1,379 @@
+﻿doi,annotated_solvent,extracted_solvent,annotated_compound,extracted_compound,solvent_score,compound_score,combined_score
+10.1039/c2dt32134c,CH2Cl2,CH2Cl2,"2,5-Bis[4-(dimethylamino)phenyl]pyrrole","2,5-Bis[4-(dimethylamino)phenyl]pyrrole",1,1,1
+10.1039/c2dt32134c,toluene,toluene,"N-(Dimesitylboryl)-2,5-di(2-thienyl)pyrrole","N-(Dimesitylboryl)-2,5-di(2-thienyl)pyrrole",1,1,1
+10.1039/c2dt32134c,toluene / hexane,toluene / hexane,"N-(Dimesitylboryl)-2,3,4,5-tetraphenylpyrrole","N-(Dimesitylboryl)-2,3,4,5-tetraphenylpyrrole",1,1,1
+10.1039/c2dt32134c,hexane,hexane,"N-(Dimesitylboryl)-2,5-bis(4-dimethylaminophenyl)pyrrole",dimesitylfluoroborane,1,0,0
+10.1039/c2dt32134c,hexane,NONE,"N-(Dimesitylboryl)-2,5-diphenylpyrrole",NONE,0,0,0
+10.1039/C4GC01832J,DMF and water,DMF and water,5 or 7 or 9 or 11,amines,1,0,0
+10.1039/b814500h,DCM and hexane,DCM and hexane,3,4-bromobenzoyl chloride,1,0,0
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,"'N-(3-Acetyl-3,4-dihydro-2H-chromen-4-yl)-4-methylbenzenesulfonamide","N-(3-Acetyl-3,4-dihydro-2H-chromen-4-yl)-4-methylbenzenesulfonamide",1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,2-(2-Methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,2-(2-Methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,EtOAc / PE,EtOAc / PE,N-(1-(2-Hydroxy-3-methoxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonami,N-(1-(2-Hydroxy-3-methoxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonami,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,2-Methoxy-6-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,2-Methoxy-6-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,EtOAc / PE,EtOAc / PE,N-(1-(2-Hydroxy-4-methoxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonami,N-(1-(2-Hydroxy-4-methoxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonami,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,5-Methoxy-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,5-Methoxy-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(2-Hydroxy-5-methoxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonami,N-(1-(2-Hydroxy-5-methoxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonami,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,Methoxy-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,Methoxy-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-[2-Acetyl-1-(2-hydroxy-5-methylphenyl)-allyl]-4-methylbenzenesulfonamide,N-[2-Acetyl-1-(2-hydroxy-5-methylphenyl)-allyl]-4-methylbenzenesulfonamide,1,1,1
+10.1039/b814500h,EtOAc / PE,EtOAc / PE,4-Methyl-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,4-Methyl-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(5-Bromo-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonamide,N-(1-(5-Bromo-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonamide,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,4-Bromo-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,4-Bromo-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,"N-(1-(3,5-Dichloro-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfona","N-(1-(3,5-Dichloro-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfona",1,1,1
+10.1039/b814500h,EtOAc / PE,EtOAc / PE,"2,4-Dichloro-6-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate","2,4-Dichloro-6-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate",1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(5-Chloro-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonamide,N-(1-(5-Chloro-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonamide,1,1,1
+10.1039/b814500h,EtOAc / PE,EtOAc / PE,4-Chloro-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,4-Chloro-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,5-fluoro-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,5-fluoro-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxobutyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(2-Hydroxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonamid,N-(1-(2-Hydroxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonamid,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,2-(2-Methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,2-(2-Methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(2-Hydroxy-3-methoxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonam,N-(1-(2-Hydroxy-3-methoxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonam,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,2-Methoxy-6-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,2-Methoxy-6-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(2-Hydroxy-5-methoxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonam,N-(1-(2-Hydroxy-5-methoxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonam,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,4-Methoxy-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,acetate,1,0,0
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,N-(1-(5-Bromo-2-hydroxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonamid,N-(1-(5-Bromo-2-hydroxyphenyl)-2-methylene-3-oxopentyl)-4-methylbenzenesulfonamid,1,1,1
+10.1039/b814500h,CH2Cl2 / PE,CH2Cl2 / PE,4-Bromo-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,4-Bromo-2-(2-methylene-1-(4-methylphenylsulfonamido)-3-oxopentyl)phenyl acetate,1,1,1
+10.1039/b814500h,EtOAc / PE,NONE,N-(1-(4-fluoro-2-hydroxyphenyl)-2-methylene-3-oxobutyl)-4-methylbenzenesulfonamide,NONE,1,0,0
+10.1039/C9TC00720B,hexane,hexane,3-methylphenothiazine,N H,1,0,0
+10.1039/C9TC00720B,toluene,toluene,"2,8-dibromo-3,7-diisopropyldibenzothiophene",Br,1,0,0
+10.1002/chem.201201527,EtOAc,EtOAc,silylcycloheptatriene 4b and triazolinedione,silylcycloheptatriene 4b and triazolinedione,1,1,1
+10.1039/C7RA09401A,toluene,toluene,"6,12-Dihydroindeno[1,2-b]fluorene",hydrazine monohydrate,1,0,0
+10.1039/C7RA09401A,ethanol,ethanol,Methyl-IF,silica,1,0,0
+10.1039/C7RA09401A,chlorobenzene,chlorobenzene, tBuPh-IF,NaCl,1,0,0
+10.1039/C7RA09401A,ethanol,ethanol,Butyl-MIF,1-iodobutane,1,0,0
+10.1039/C7RA09401A,DMF,DMF,Hexyl-MIF,1-bromohexane,1,0,0
+10.1039/C7RA09401A,DMF,DMF,Octyl-MIF,1-bromooctane,1,0,0
+10.1039/C7RA09401A,ethanol,ethanol,"f Dimethyl-2,5-diphenylterephthalate",silica gel,1,0,0
+10.1039/C7RA09401A,ethanol,NONE,Hexyl-IF,NONE,0,0,0
+10.1039/C7RA09401A,ethanol,NONE,Butyl-IF,NONE,0,0,0
+10.1039/C7RA09401A,ethanol,NONE,Octyl-IF,NONE,0,0,0
+10.1039/C7RA09401A,n - hexanes,NONE,2-Fluorenyl methylbenzoate,NONE,0,0,0
+10.1039/C7RA09401A,nhex / PhMe,NONE,Methyl-MIF,NONE,0,0,0
+10.1039/c2ce26244d,ethyl acetate or ethanol,ethanol,1 or 2,picolinamide,1,0,0
+10.1002/chem.201602805,CH2Cl2 / Et2O,CH2Cl2 / Et2O,Mes2BBCl2(CAACMe) ,benzene,1,0,0
+10.1002/chem.201602805,CH2Cl2 / Et2O,NONE,Dur2BBCl2(CAACMe),NONE,0,0,0
+10.1002/chem.201202739,ethanol,ethanol,"1,3-dibromo-2-iodobenzene","1,3-dibromo-2-iodobenzene",1,1,1
+10.1002/chem.201202739,ethyl acetate,ethyl acetate,2â€™-Bromo-2-chloro-6-(p-tolylsulfinyl)biphenyl,2â€™-Bromo-2-chloro-6-(p-tolylsulfinyl)biphenyl,1,1,1
+10.1002/chem.201202739,methanol,methanol,"(R)-2',6-Dibromobiphenyl-2-carbaldehyde","(R)-2',6-Dibromobiphenyl-2-carbaldehyde",1,1,1
+10.1002/chem.201202739,methanol,methanol,(R)-2'-Bromo-6-chlorobiphenyl-2-carbaldehyde,(R)-2'-Bromo-6-chlorobiphenyl-2-carbaldehyde,1,1,1
+10.1002/chem.201202739,methanol,methanol,"2,2â€™,6-tribromobiphenyl","2,2â€™,6-tribromobiphenyl",1,1,1
+10.1002/chem.201202739,ethyl acetate or diethyl ether,ethyl acetate,"2,2â€™-Dibromo-6-(p-tolylsulfinyl)biphenyl","2,2â€™-Dibromo-6-(p-tolylsulfinyl)biphenyl",1,1,1
+10.1002/chem.201202739,methanol,methanol,"2,2â€™-dibromo-6-chloro-biphenyl","2,2â€™-dibromo-6-chloro-biphenyl",1,1,1
+10.1039/C9OB02363A,methylene chloride / hexane,methylene chloride / hexane,3-Amino-6-fluoro-2H-chromen-2-one,[11] 3-Amino-6-fluoro-2H-chromen-2-one,1,1,1
+10.1039/C9OB02363A,methylene chloride / hexane,methylene chloride / hexane,4,2-Amino-3H-benzo[f]chromen-3-one,1,0,0
+10.1039/C9OB02363A,methylene chloride / hexane,methylene chloride / hexane,"3-(4-Methoxyphenyl)-1,4-dihydro-6H-furo[3,4-b]pyrrol-6-one","3-(4-Methoxyphenyl)-1,4-dihydro-6H-furo[3,4-b]pyrrol-6-one",1,1,1
+10.1039/C9OB02363A,chloroform / mTBE,chloroform,"1-(3,4-Dimethoxyphenyl)-7,8-dimethoxychromeno[3,4-b]pyrrol-4(3H)-one","1-(3,4-Dimethoxyphenyl)-7,8-dimethoxychromeno[3,4-b]pyrrol-4(3H)-one",0,1,0
+10.1039/c002454f,EtOH,EtOH,mesityl(2-nitrophenyl)methanone,NH2,1,0,0
+10.1039/C3OB42152J,CH2Cl2,CH2Cl2,m-CPBA,N2,1,0,0
+10.1039/C3OB42152J,hexanes,hexanes,"syn-3,4,5,6-Tetrachlorotetracyclo[6.2.2.23,6.02,7]tetradeca-4,9-diene",dry-ice,1,0,0
+10.1039/C3OB42152J,hexanes,hexanes,"all-syn-1,8,15,16-Tetrachlorohexacyclo[6.6.2.23,6.210,13.02,7.09,14]icosa-4,11,15-triene",Dodecatriene,1,0,0
+10.1039/C3OB42152J,hexanes,hexanes,"9,10-Epoxy-3,4,5,6-tetrachlorotetracyclo[6.2.2.23,6.02,7]tetradec-4-ene ",Na2S2O3,1,0,0
+10.1039/C3OB42152J,hexanes : Et2O,hexanes,"3,4,5,6-Tetrachloro-10-oxopentacyclo[6.2.2.23,6.02,7.05,9]tetradecane",Tritwistane,0,0,0
+10.1039/C3OB42152J,hexane,NONE,"Pentacyclo[6.2.2.23,6.02,7.05,9]tetradecan-4-one",NONE,0,0,0
+10.1039/C3OB42152J,hexanes,NONE,"Bromination of syn-3,4,5,6-Tetrachlorotetracyclo[6.2.2.23,6.02,7]tetradeca-4,9-diene",NONE,0,0,0
+10.1039/C3OB42152J,hexanes,NONE,"Bromination of syn-3,4,5,6-Tetracyclo[6.2.2.23,6.02,7]tetradeca-4,9-diene",NONE,0,0,0
+10.1039/C9CC01092K,acetone,acetone,DMTS,S T A R e S W,1,0,0
+10.1002/chem.201202908,methanol,methanol,"(R)-6-Methoxy-4-(nitromethyl)-2,3,4,9-tetrahydro-1H-carbazole","(R)-6-Methoxy-4-(nitromethyl)-2,3,4,9-tetrahydro-1H-carbazole",1,1,1
+10.1002/chem.201202908,benzene,benzene,"(R)-6-Chloro-4-(nitromethyl)-2,3,4,9-tetrahydro-1H-carbazole","(R)-8-Methyl-4-(nitromethyl)-2,3,4,9-tetrahydro-1H-carbazole",1,0,0
+10.1002/chem.201202908,methanol,methanol,"(R)-6-Methyl-4-(nitromethyl)-2,3,4,9-tetrahydro-1H-carbazole",N H,1,0,0
+10.1002/chem.201302126,CH3CN / H2O,CH3CN / H2O,"3-([1,2,4]Triazolo[4,3-b][1,2,4,5]tetazin-6-ylamino)-4-(2,2,2-trinitroethylamino)furazan","3-([1,2,4]Triazolo[4,3-b][1,2,4,5]tetazin-6-ylamino)-4-(2,2,2-trinitroethylamino)furazan",1,1,1
+10.1002/chem.201302126,CF3CO2H / H2O,NONE,"3-Methyl-4-(2,2,2-trinitroethylamino)furazan",NONE,0,0,0
+10.1002/chem.201302126,CF3CO2H / H2O,NONE,"3-Cyano-4-(2,2,2-trinitroethylamino)furazan",NONE,0,0,0
+10.1002/chem.201302126,CF3CO2H / H2O,NONE,"3,4-Bis(2,2,2-trinitroethylamino)furazan",NONE,0,0,0
+10.1039/C5TC03737A,toluene,toluene,"4,4â€²-BPy-4Cl",S 6,1,0,0
+10.1039/C9TC02477H,ethyl acetate,ethyl acetate,"10-(4-(4,6-diphenyl-1,3,5-triazin-2-yl)phenyl)-10H-phenoselenazine ",Se,1,0,0
+10.1039/D0TB00470G,acetonitrile,acetonitrile,"7,7-Bis(n-hexylamino)-8,8-dicyanoquinodimethane",BHADQ,1,1,1
+10.1039/D0TB00470G,acetonitrile,NONE,"7,7-Bis(n-pentylamino)-8,8-dicyanoquinodimethane",NONE,0,0,0
+10.1039/D0TB00470G,acetonitrile,NONE,"(7,7-Bis(n-heptylamino)-8,8-dicyanoquinodimethane)",NONE,0,0,0
+10.1039/C9CC06914C,Et2O,Et2O,(Ph2CNN(PPh2)(BMes2)),N B O O,1,0,0
+10.1039/C9CC06914C,Et2O,NONE,FluorenylNN(PPh2)(BMes2),NONE,0,0,0
+10.1039/C9CC06914C,Et2O,NONE,((EtOOC)CNN(PPh2)(BMes2)) ,NONE,0,0,0
+10.1039/C9CC06914C,Et2O,NONE,Ph2CNN(PPh2)(Bcat)),NONE,0,0,0
+10.1039/C9CC06914C,Et2O,NONE,FluorenylNN(PPh2)(Bpin)) ,NONE,0,0,0
+10.1039/C9CC06914C,Et2O,NONE,(EtOOC)CNN(PPh2)(Bpin),NONE,0,0,0
+10.1039/C9CC06914C,Et2O,NONE, ((EtOOC)CNN(PtBu2)(Bpin)) ,NONE,0,0,0
+10.1002/anie.200902029,MeOH / benzene,MeOH / benzene,9d,OH,1,0,0
+10.1039/C5CE01156F,ethanol - water,ethanol - water,2-(5-isopropyl-2-methylphenoxy) acetohydrazide,ethanol,1,0,0
+10.1039/C5CE01156F,ethyl acetate / hexane,ethyl acetate / hexane,f 1-(benzoyl)-3-[(5â€™-isopropyl-2â€™-methylphenoxy)acetamino]thiourea,IR Data,1,0,0
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,7-Dibromo-3,6-di-n-hexyl-benzo[1,2-b:6,5-b']dithiophene-4,5-dione","2,7-Bis-pentafluorobenzoyl-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-bis-(ethyleneoxolane)",1,0,0
+10.1039/C2TC00805J,"1,4-dioxane","1,4-dioxane","2,7-Bis-(3,4,5-trifluorobenzoyl)-benzo[1,2-b:6,5-b]dithiophene-4,5-dione","2,7-Bis-(3,4,5-trifluorobenzoyl)-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-dione",1,1,1
+10.1039/C2TC00805J,toluene,toluene,image,"2,7-bis-(thiophen-2-oyl)-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-dione",1,0,0
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,7-Bis-(5-n-nonyl-thiophen-2-yl)-benzo[1,2-b:6,5-b]dithiophene-4,5-bis-(ethyloxolane) ",S104,1,0,0
+10.1039/C2TC00805J,2-propanol,2-propanol,"4,4'-Dibromo-2,2'-bis(4-hexyl-5-(trimethylsilyl)thiophen-2-yl)-5,5'-bithiazole",2-(4-n-Hexyl-5-trimethylsilylthiophen-2-yl)-5-bromo-thiazole,1,0,0
+10.1039/C2TC00805J,2-propanol,2-propanol,"2-Bromo-7-pentafluorobenzoyl-benzo[1,2-b:6,5-b']dithiophene-4,5-bis-","2-Bromo-7-pentafluorobenzoyl-benzo[1,2-b:6,5-b']dithiophene-4,5-bis-",1,1,1
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,7-Bis-triisopropylsilyl-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane)","2,7-Bis-triisopropylsilyl-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane)",1,1,1
+10.1039/C2TC00805J,toluene,toluene,"2,7-Bis-(thiophen-2-yl)-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-bis-(ethyloxolane)","2,7-Bis-(thiophen-2-yl)-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-bis-(ethyloxolane)",1,1,1
+10.1039/C2TC00805J,toluene - hexanes,toluene - hexanes,"2,7-Difluoro-benzo[1,2-b:6,5-b']dithiophene-4,5-bis-(ethyloxolane)","2,7-Difluoro-benzo[1,2-b:6,5-b']dithiophene-4,5-bis-(ethyloxolane)",1,1,1
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,7-Bis-trimethylsilyl-3,6-di-n-hexyl-benzo[1,2-b:6,5-b']dithiophene-4,5-dione","2,7-Bis-trimethylsilyl-3,6-di-n-hexyl-benzo[1,2-b:6,5-b']dithiophene-4,5-dione",1,0,0
+10.1039/C2TC00805J,ethanol,ethanol,"2,7-Bis-(4-trifluoromethylbenzoyl)-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane)",N-methoxy-N-methyl-4-(trifluoromethyl)benzamide,1,0,0
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,7-Bis-(3,4,5-trifluorobenzoyl)-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane)","2,7-Bis-(3,4,5-trifluorobenzoyl)-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane)",1,1,1
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,7-Bis-(4-n-hexylthiophen-2-yl)-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-dione","2,7-Bis-(4-n-hexylthiophen-2-yl)-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-dione",1,1,1
+10.1039/C2TC00805J,chloroform or toluene,toluene,"2,7-Diiodo-benzo[1,2-b:6,5-b']dithiophene-4,5-dione","2,7-Diiodo-benzo[1,2-b:6,5-b']dithiophene-4,5-dione",1,1,1
+10.1039/C2TC00805J,2-propanol : chloroform,2-propanol,"2,7-bis-trimethylsilyl-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-dione","2,7-Bis-trimethylsilyl-benzo[1,2-b:6,5-b']dithiophene-4,5-dione",0,1,0
+10.1039/C2TC00805J,2-propanol,2-propanol,"2,6-Diiodo-3,5-di-n-hexyl-4H-cyclopenta[1,2-b:5,4-b']dithiophen-4-one","2,6-Diiodo-3,5-di-n-hexyl-4H-cyclopenta[1,2-b:5,4-b']dithiophen-4-one",1,1,1
+10.1039/C2TC00805J,2-propanol,NONE,"2,7-Bis-(pentafluorobenzoyl)-benzo[1,2-b:6,5-b']dithiophene-4,5-bis-(ethyleneoxolane)",NONE,0,0,0
+10.1039/C2TC00805J,toluene - hexanes,NONE,"2,7-Difluoro-benzo[1,2-b:6,5-b']dithiophene-4,5-dione-4,5-dione",NONE,0,0,0
+10.1039/C2TC00805J,2-propanol,NONE,"2,7-Dibromo-benzo[1,2-b:6,5-b']dithiophene-4-one-5-(1,3-dioxolane)",NONE,0,0,0
+10.1039/C2TC00805J,2-propanol,NONE,"2,7-Dibromo-benzo[1,2-b:6,5-b']dithiophene-4,5-bis-(1,3-dioxolane)",NONE,0,0,0
+10.1039/C2TC00805J,2-propanol,NONE,"2,7-Bis-(3,4,5-trifluorobenzoyl)-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane) ",NONE,0,0,0
+10.1039/C2TC00805J,2-propanol - dichloromethane,NONE,"2,7-Bis-(thiophen-2-yl)-benzo[1,2-d:4,3-d']bis(thiazole)-4,5-bis-(1,3-dioxolane)",NONE,0,0,0
+10.1039/C2TC00805J,"1,1,2,2-tetrachloroethane",NONE,"7,7'-Bis-(pentafluorobenzoyl-2,2'-bis-benzo[2,1-b:3,4-b']dithiophenyl-4,5-dione",NONE,0,0,0
+10.1039/C2TC00805J,ethanol,NONE,"2,7-Bis-trimethylsilylethynyl-benzo[1,2-b:6,5-bâ€™]dithiophene-4,5-dione",NONE,0,0,0
+10.1002/chem.201002345,ethyl acetate,ethyl acetate,URB694,URB694,1,1,1
+10.1002/chem.201002345,ethanol,ethanol,N-Cyclohexyl-4-(2-methoxyphenyl)-1-piperazinecarboxamide,N-Cyclohexyl-4-(2-methoxyphenyl)-1-piperazinecarboxamide,1,1,1
+10.1002/chem.201002345,chloroform / hexane,chloroform / hexane,"5-Hydroxy-[1,1'-biphenyl]-2-yl cyclohexylcarbamate","5-Hydroxy-[1,1'-biphenyl]-2-yl cyclohexylcarbamate",1,1,1
+10.1002/chem.201002345,ethanol,NONE,"N,Nâ€™dibenzylurea (3) and O-phenylcarbamates",NONE,0,0,0
+10.1002/chem.201002345,ethanol,NONE,"[1,1'-biphenyl]-2,5-diyl bis(cyclohexylcarbamate)",NONE,0,0,0
+10.1039/C6TC05519B,ethanol,ethanol,BPM-M,BPM-M,1,1,1
+10.1039/C6TC05519B,acetone,acetone,"3,4-di (indol-3-yl)maleimide",hydrochloric acid,1,0,0
+10.1039/C8CC01529E,n-pentane,n-pentane,3CI,"9,9-dimethyl-9-stannafluorene",1,0,0
+10.1039/D0RA01335H,benzene / hexane,benzene / hexane,C10H7BrN2O,C10H7BrN2O,1,1,1
+10.1039/C9SC06518K,THF,THF,Gly,D-Fru,1,0,0
+10.1039/b301772a,CH2Cl2 / toluene,CH2Cl2 / toluene,[Î·5:Î·1-(NMe2CH2C2B9H9CH2NMe2)]Ti(NMe2)2,"[nido-7,8-(NMe2CH2)2-7,8-C2B9H10]",1,0,0
+10.1039/b301772a,n-pentane,NONE,"[closo-1,2-(CH2NMe2)2-1,2-C2B10H10]",NONE,0,0,0
+10.1039/C5OB01224D,hexane,hexane,2 3 8 or 10,Organosilicon,1,0,0
+10.1039/C3CP50757B,"1,2-dichloroethane",hexanes,"Peroxide of 2-(2'-tert-butylphenyl)-4,5-diphenylimidazoly","Peroxide of 2-(2'-tert-butylphenyl)-4,5-diphenylimidazolyl",1,1,1
+10.1039/C3CP50757B,ethyl acetate,ethyl acetate,"Peroxide of 2-(4'-tert-butylphenyl)-4,5-diphenylimidazolyl","Peroxide of 2-(4'-tert-butylphenyl)-4,5-diphenylimidazolyl",1,1,1
+10.1039/C3CP50757B,nitromethane,acetonitrile,"2-(2â€²-tert-butylphenyl)-4,5-diphenylimidazole","2-(2â€²-tert-butylphenyl)-4,5-diphenylimidazole",1,1,1
+10.1039/C3CP50757B,ethyl acetate or acetonitrile,acetonitrile,"2-(4â€²-tert-butylphenyl)-4,5-diphenylimidazole","2-(4â€²-tert-butylphenyl)-4,5-diphenylimidazole",1,1,1
+10.1039/C3CP50757B,hexanes,NONE,"2C-1'N dimer of 2-(4'-tert-butylphenyl)-4,5-diphenylimidazolyl",NONE,0,0,0
+10.1002/chem.201500839,diethyl ether,diethyl ether,4,C24H35NO7Na,1,0,0
+10.1002/chem.201500839,chloroform,chloroform,7,C23H32NO7,1,0,0
+10.1002/chem.201500839,EtOAc,EtOAc,28 and 8,C22H26NO8S,1,0,0
+10.1002/chem.201500839,acetone,acetone,9,C21H21NO7Na,1,0,0
+10.1002/chem.201500839,diethyl ether,diethyl ether,6,C25H37NO8Na,1,0,0
+10.1002/chem.201500839,diethyl ether,diethyl ether,6,O,1,0,0
+10.1039/b812333k,EtOH,EtOH,"N-(2,4,6-trimethylphenyl)-P-(2,4,6-tri-tert-butylphenyl)phosphaformamidine",n-hexane,1,0,0
+10.1039/C9SC01192G,hexanes,hexanes,[K(THF)2][Si(SiMe3)3],nitrogen,1,0,0
+10.1039/c2cc36263e,THF / EtOH,THF / EtOH,DSAn,OCnH2n+1,1,0,0
+10.1002/anie.201706763,methanol,methanol,"2-benzyl-2-fluorocyclohexane-1,3-dione","2-benzyl-2-fluorocyclohexane-1,3-dione",1,1,1
+10.1002/anie.201706763,methanol,NONE,S4,NONE,0,0,0
+10.1039/C5SC01536G,benzene,benzene,sulfur,nitrogen,1,0,0
+10.1039/C5SC01536G,MeOH,MeOH,"Rac-(3R,6R,7S,8aS)-6-(6-bromobenzo[d][1,3]dioxol-5-yl)-2,3,7-trimethyl-1,4-dioxooctahydropyrrolo[1,2-a]pyrazine-7-carbonitrile",H2O,1,0,0
+10.1039/C5SC01536G,CH2Cl2 - EtOAc,NONE,"(3S,6S,7S,8aS)-6-(benzo[d][1,3]dioxol-5-yl)-7-isocyano-2,3,7-trimethyltetrahydro-6H-3,8a-epidithiopyrrolo[1,2-a]pyrazine-1,4-dione",NONE,0,0,0
+10.1039/C6RA12692H,methanol,methanol,3-Bromo-9-ethyl-9H-carbazole,3-Bromo-9-ethyl-9H-carbazole,1,1,1
+10.1039/C6RA12692H,izopropanol / DMF,NONE,"3,6-Dibromo-9-ethyl-9H-carbazole",NONE,0,0,0
+10.1039/C6RA12692H,izopropanol / DMF,NONE,"10,10â€˜-(9-Ethyl-9H-carbazole-3,6-diyl)bis(10H-phenothiazine (CzBisPhen)",NONE,0,0,0
+10.1039/C6RA12692H,izopropanol / DMF,NONE,10-(9-Ethyl-9H-carbazol-3-yl)-10H-phenothiazine,NONE,0,0,0
+10.1039/C9CC04526K,chloroform and hexane,chloroform and hexane,"9,12-(C6H4CH(OCH3)2)2-1,2-closo-C2B10H10, 3",ether,1,0,0
+10.1039/C9CC04526K,aceton / pentane,NONE,10 or 11,NONE,0,0,0
+10.1039/C9CC07723E,n-pentane,n-pentane,"2,6-Bis(N-benzyl-o-diphenylphosphine-5-butylpyrazol-3-yl)pyridine",2,1,0,0
+10.1039/C9CC07723E,diethylether,NONE,"[(Bis((2,6-bis(N-benzyl-o-diphenylphosphine-5-butylpyrazol-3-yl)pyridine)carbonylrhodium(I))(di-chloridozinc(II))] tetrafluoroborate triflate",NONE,0,0,0
+10.1039/C7PY00118E,ethanol,ethanol,5â€™-TBDMS-thymidine,5â€™-TBDMS-thymidine,1,1,1
+10.1039/C7PY00118E,EtOH,EtOH,3-N-methyl-3â€™-tosyl-thymidine,EtOAc,1,0,0
+10.1039/C7PY00118E,toluene,NONE,"Cyclic 3-N-methyl-3â€™,5â€™-O-cis-carbonate-thymidine",NONE,0,0,0
+10.1039/C7PY00118E,diethyl ether,NONE,4-Methyl benzyl alcohol,NONE,0,0,0
+10.1039/C7PY00118E,ether,NONE,3-N-methyl-3â€™-tosyl-5â€™-TBDMS-thymidine,NONE,0,0,0
+10.1002/chem.201200306,DCM / pentane,DCM / pentane,N-(cyclopropyl(5-methylfuran-2-yl)methyl)-N-(prop-2-ynyl)methanesulfonamide,hydroxide,1,0,0
+10.1002/chem.201200306,DCM / pentane,DCM / pentane,N-[(5-bromofuran-2-yl)methylidene]-4-methylbenzenesulfonamide,THF,1,0,0
+10.1002/chem.201200306,PE,PE,(3-methylfuran-2-yl)-N-tosylmethanimine,1H,1,0,0
+10.1002/chem.201200306,DCM / pentane,NONE,(E)-N-(benzofuran-2-ylmethylene)-4-methylbenzenesulfonamide,NONE,0,0,0
+10.1002/chem.201200306,DCM / pentane,NONE,4-methyl-N-((1-methyl-1H-pyrrol-2-yl)methylene)benzenesulfonamide,NONE,0,0,0
+10.1039/C9NJ01681C,ethanol and water,ethanol and water,"(Z)-4-((4-aminophenyl)amino)-1,1,1-trifluorobut-3-en-2-ones","1,4-phenylenediamine",1,0,0
+10.1039/C6DT04615K,ethanol,ethanol,"4-(2,3,4,6-tetra-O-acetyl-ï¢-D-glucopyranosyloxy)benzaldehyde","4-(2,3,4,6-tetra-O-acetyl-ï¢-D-glucopyranosyloxy)benzaldehyde",1,1,1
+10.1002/anie.200901977,hexane / diethyl ether,hexane / diethyl ether,C,CHCl3,1,0,0
+10.1039/c2jm32405a,ethanol,ethanol,dyel,Hydrazine hydrate,1,0,0
+10.1039/C4RA07840C,ethanol,ethanol,3a-j,Câ€“H,1,0,0
+10.1039/C4RA07840C,ethanol / water,CCl4,5aa-ff or 5ga-gf,isopropyl alcohol,1,0,0
+10.1039/C4RA07840C,ethanol / water,ethanol / water,"2-(3-Ethyl-2-isopropylimino-4-oxo-1,3-thiazolidin-5-yl)-N-phenylacetamide",C = S,1,0,0
+10.1039/C4RA07840C,CCl4 / i-PrOH,NONE,9h or i or l,NONE,0,0,0
+10.1039/C7SC04759B,hexane or pentane,hexane,5a,trifluoromethylpyridine,1,0,0
+10.1039/C7SC04759B,hexane,hexane,5b,(methoxycarbonyl)yridine,1,0,0
+10.1039/C7SC04759B,toluene,toluene,10,dimethylaminopyridine,1,0,0
+10.1039/C7SC04759B,hexane,hexane,4a,MeO,1,0,0
+10.1039/C7SC04759B,hexane,hexane,5d,(methoxycarbonyl)pyridine,1,0,0
+10.1039/C7SC04759B,benzene,hexane,6,Pyridine,1,0,0
+10.1039/C7SC04759B,hexane,hexane,7,Mes,1,0,0
+10.1039/C7SC04759B,acetonitrile,acetonitrile,9e,Xyl,1,0,0
+10.1039/C7SC04759B,pentane or hexane,hexane,5c,toluene,1,0,0
+10.1039/C7SC04759B,hexane,NONE,4,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,5,NONE,0,0,0
+10.1039/C7SC04759B,benzene,NONE,6,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,9a,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,9b,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,9c,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,9d,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,11,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,12,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,13,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,5e,NONE,0,0,0
+10.1039/C7SC04759B,hexane,NONE,4f,NONE,0,0,0
+10.1039/b606881b,CHCl3,CHCl3,"(1R,2S)-2-Chloro-1,2-diphenyl-1-diphenylphosphinoyloxyethane","(2R,3S)-Methyl 3-chloro-2-bis(diphenylphosphinoyloxy)-3-phenylpropanoate 11, (2R,3R)-methyl",1,0,0
+10.1039/b606881b,CHCl3,CHCl3,"(2R,3S)-Methyl 3-chloro-2-bis(diphenylphosphinoyloxy)-3-phenylpropanoate 11, (2R,3R)-methyl 2-chloro-3-bis(diphenylphosphinoyloxy)-3-phenylpropanoate 12 and (2S,3R)-methyl 2,3-bis(diphenylphosphinoyloxy)-3-phenylpropanoate 13",C20H25ClO4P+,1,0,0
+10.1039/b606881b,CHCl3,NONE,"(1R,2R)-1-Diphenylphosphinoyloxy-2-hydroxy-1,2-diphenylethane",NONE,0,0,0
+10.1002/chem.201602639,NONE,acetonitrile,NONE,11B,0,0,0
+10.1002/chem.201602639,Et2O,Et2O,"Bis[4-(N,N-dimethylamino)-2,6-dimethylphenyl]-2,6-dimethylphenylborane ",THF,1,0,0
+10.1002/chem.201602639,MeOH,NONE,"5,5â€²-Bis[4-[bis[4-(N,N-dimethylamino)-2,6-xylyl]boryl]-3,5-xylyl]-2,2â€²-bithiophene",NONE,0,0,0
+10.1002/anie.201000555,CH2Cl2 and hexanes,CH2Cl2,14e,C45H54,0,0,0
+10.1002/adma.201404858,methanol / toluene,methanol / toluene,"N-butyl-4,7-di(2-thienyl)-2,1,3-benzothiadiazole-5,6-dicarboxylic imide","N-butyl-4,7-di(2-thienyl)-2,1,3-benzothiadiazole-5,6-dicarboxylic imide",1,1,1
+10.1002/anie.201106786,hexanes,hexanes,2-Bromo-4-chloroaniline,2-Bromo-4-chloroaniline,1,1,1
+10.1002/anie.201106786,EtOAc / hexanes,NONE,"N-Ethyl 3-methyl-7-chlorodibenz[b,f][1,4]oxazepin-11(10H)-one",NONE,0,0,0
+10.1002/anie.201106786,EtOH,NONE,2-Iodo-5-bromobenzoic acid,NONE,0,0,0
+10.1002/anie.201106786,EtOAc / hexanes,NONE,"N-(2,4-Dimethoxybenzyl) 7-chlorodibenz[b,f][1,4]oxazepin-11(10H)-one",NONE,0,0,0
+10.1002/anie.201106786,EtOAc / hexanes,NONE,"N-Ethyl 3-methyl-7-chlorodibenz[b,f][1,4]oxazepin-11(10H)-one",NONE,0,0,0
+10.1002/anie.201106786,EtOAc,NONE,"N-Ethyl 3-methylbenzonaphth[b,f][1,4]oxazepin-11(10H)-one",NONE,0,0,0
+10.1002/anie.201106786,N-Ethyl-N-(4-chlorophenyl) 2-hydroxy-4-methylbenzamide,NONE,N-Ethyl-N-(4-chlorophenyl) 2-hydroxy-4-methylbenzamide,NONE,0,0,0
+10.1002/anie.201106786,CH2Cl2 / hexanes,NONE,N-(2-Bromo-4-chlorophenyl) 2-iodobenzamide,NONE,0,0,0
+10.1002/anie.201105228,methanol,methanol,"2,6-diisopropyl-N-(2-(pyridin-2-yl)phenyl)aniline",n-hexane,1,0,0
+10.1002/anie.201105228,EtOAc,EtOAc,1a,toluene,1,0,0
+10.1002/anie.201105228,ethanol,ethanol, 10-(phenylamino)benzo[h]quinoline,H,1,0,0
+10.1002/anie.201105228,EtOH,EtOH,2a,N,1,0,0
+10.1002/anie.201105228,methanol,NONE,"2,6-diisopropyl-N-(2-(6-methylpyridin-2-yl)phenyl)aniline",NONE,0,0,0
+10.1002/anie.201105228,methanol,NONE,"2,6-diisopropyl-N-(2-(5,6,7,8-tetrahydroquinolin-2-yl)phenyl)aniline",NONE,1,0,0
+10.1039/C3RA00170A,ethanol,ethanol,"dispiro [3H-indole-3,2'-pyrrolidine-3',3''-piperidine]-2(1H),4''-dione derivatives",NONE,1,0,0
+10.1002/anie.200907033,hexane - EtOAc,hexane - EtOAc,"(Â±)-1,4-di(methoxycarbonyl)-2-hexanoyloxybicyclo[2.2.2]octane-2-en-5-one",bis-enol hexanoyl ester,1,0,0
+10.1002/anie.200907033,hexane - EtOAc,hexane - EtOAc,"(S,S)-(+)-1,4-di(methoxycarbonyl)-2-hexanoyloxybicyclo[2.2.2]octan-2-en-5-one",NaOH,1,0,0
+10.1002/anie.200907033,DCM - Hexane,DCM - Hexane,"{bis-(R,R)-1,4-Dimethyl-2,5-diphenylbicyclo[2.2.2]octan-2,5-diene)-RhCl}2{[Rh(L5a)2Cl]2} ",DCM,1,0,0
+10.1002/anie.200907033,hexane,hexane,"(R,R)-1,4-di(trifluorosulphonyloxymethyl)bicyclo[2.2.2]octan-2,5-di-{2â€™-[1,3-dioxolane]}",Na2SO4,1,0,0
+10.1039/C4OB01574F,DCM / PE,DCM / PE,3,S1-5,1,0,0
+10.1039/C4OB01574F,DCM and methanol,DCM and methanol,(S)-(L)-menthyl [(R)-1-(4-methoxylphenyl)-1-hydroxyethyl] phenylphosphinate,(S)-(L)-menthyl [(R)-1-(4-methoxylphenyl)-1-hydroxyethyl] phenylphosphinate,1,1,1
+10.1039/C4OB01574F,DCM and methanol,DCM and methanol,(S)-(L)-menthyl [(R)-1-biphenyl-1-hydroxyethyl] phenylphosphinate,(S)-(L)-menthyl [(R)-1-biphenyl-1-hydroxyethyl] phenylphosphinate,1,1,1
+10.1039/C4OB01574F,DCM and methanol,DCM and methanol,(S)-(L)-menthyl [ (R)-(2-hydroxy-4-methyl pentan-2-yl ) ] phenylphosphinate,(S)-(L)-menthyl [ (R)-(2-hydroxy-4-methyl pentan-2-yl ) ] phenylphosphinate,1,1,1
+10.1039/C4OB01574F,DCM and methanol,DCM,Cyclohexyl [1-hydroxy-1-(4-bromophenyl)ethyl]phenylphosphinate,phenylphosphinate,0,1,0
+10.1039/C4OB01574F,DCM and methanol,DCM and methanol,tert-Butyl [ 1-hydroxy-1-(4-bromophenyl) ethyl]phenylphosphinate,tert-Butyl [ 1-hydroxy-1-(4-bromophenyl) ethyl]phenylphosphinate,1,1,1
+10.1039/C4OB01574F,DCM and methanol,DCM and methanol,(S)-(L)-menthyl [ (R)-1-(4-bromophenyl)-1-hy droxyethyl]phenylphosphinate,(S)-(â€“)-menthyl [(S)-1-(4-bromophenyl)-1-hydroxyethyl]phenylphosphinate,1,1,1
+10.1039/C4OB01574F,DCM and methanol,DCM and methanol,(S)-(-)-menthyl [(R)-1-(3-nitrophenyl)-1-hydroxyethyl] phenylphosphinate,(S)-(â€“)-menthyl [(R)-1-(3-nitrophenyl)-1-hydroxyethyl] phenylphosphinate,1,1,1
+10.1039/C4OB01574F,DCM / PE,DCM / PE,2b,Î±-hydroxyphosphinates,1,0,0
+10.1002/chem.201300062,CH2Cl2 / pentane,CH2Cl2 / pentane,6a-j,NaHCO3,1,0,0
+10.1002/chem.201300062,EtOAc / CH3CN,EtOAc / CH3CN,"(4S)-4-Benzyl-2-{(E)-[(4S)-4-benzyl-1-methylimidazolidin-2-ylidene]methyl}-1-methyl-4,5-dihydro-1H-imidazole tetrafluroborate 3fâ€¢HBF",NaBF4,1,0,0
+10.1002/chem.201300062,EtOAc / MTBE,EtOAc,"(3S,7S)-3,7-Dibenzyl-1,9-dimethyl-2,3,5,7,8,9-hexahydro-1H^Bdiimidazo[1,2-c:2',1'-f][1,3,2]diazaphosphinin-4-ium-5-olate-5-oxide","diimidazo[1,2-c:2',1'-f][1,3,2]diazaphosphinin-4-ium-5-olate-5-oxide",0,0,0
+10.1002/chem.201300062,CH2Cl2,CH2Cl2,"(3S,7S)-1,9-Dimethyl-3,7-diisopropyl-2,3,5,7,8,9-hexahydro-1H^Bdiimidazo[1,2-c:2â€™,1â€™-f][1,3,2]diazaphosphinin-4-ium-5-olate-5-oxide","diimidazo[1,2-c:2â€™,1â€™-f][1,3,2]diazaphosphinin-4-ium-5-olate-5-oxide",1,0,0
+10.1039/c0cc00247j,hexane,hexane,2,2H,1,0,0
+10.1039/c0cc00247j,ethanol,ethanol,5,CDCl3,1,0,0
+10.1039/c0cc00247j,hexane,NONE,3,NONE,0,0,0
+10.1039/c0cc00247j,pentane,NONE,4,NONE,0,0,0
+10.1039/C7QO00821J,dichloromethane,dichloromethane,1,O,1,0,0
+10.1002/chem.201502363,MeOH,MeOH,"3-(2,5-Dipropoxyphenyl)propyn-1-ol",H2SO4,1,0,0
+10.1002/chem.201502363,MeOH,MeOH,"1,8-bis-((2,5-Dipropyloxyphenyl)ethynyl)naphthalene","1,8-bis-((2,5-Dipropyloxyphenyl)ethynyl)naphthalene",1,1,1
+10.1039/C2CC37025E,acetone,acetone,"10-ethoxy-pentathiepino-pyrrolo[1,2-a]pyrazine",N 4,1,0,0
+10.1039/C3CC46865H,acetonitrile,acetonitrile,"2,7-bis(1,1-di-(2-pyridyl)methyl)-1,8-naphthyridine",naphthyridine,1,0,0
+10.1039/C3CC46865H,ACN,ACN,"2,7-bis(fluorodi(2-pyridyl)methyl)-1,8-naphthyridine",DPFN,1,1,1
+10.1039/C5CC05973A,water,water,N-Bromosuccinimide,nitrogen,1,0,0
+10.1039/C9OB00637K,hexane and AcOEt,hexane and AcOEt,(Z)-N-(2-((benzyloxy)imino)-2-phenylethyl)-4-methyl-N-(2-methylallyl)benzenesulfonamide,"1-(4-isopropyl-2,3,5-trimethoxyphenyl)-5-methylhex-5-en-1-ol",1,0,0
+10.1002/anie.201101389,Pentane / Et2O,Pentane / Et2O,trans-aziridine,S-9,1,0,0
+10.1002/anie.201101389,ether / pentane,NONE,"1-(3S,4R,5S)-1-[(4-methylphenyl)sulfonyl]-5-phenyl-4-[(E)-2-phenyl-1-ethenyl]tetrahydro1H-3-pyrrolyl-1-ethanone",NONE,0,0,0
+10.1002/anie.201101389,ether / pentane,NONE,"Â±)-1-(3S,4S,5S)-1-[(4-methylphenyl)sulfonyl]-5-phenyl-4-[(Z)-2-(1,1,1-trimethylsilyl)-1-ethenyl]tetrahydro-1H-3-pyrrolyl-1-ethanone",NONE,0,0,0
+10.1002/anie.201101389,EtOAc / petroleum ether,NONE,"(Â±)-Ethyl (3R,4S,5S)-1-[(4-methylphenyl)sulfonyl]-5-phenyl-4-[(Z)-2-(1,1,1-trimethylsilyl)-1-ethenyl]tetrahydro-1H-3-pyrrolecarbothioate",NONE,0,0,0
+10.1039/C4CC00318G,toluene / hexanes,toluene / hexanes,2a,triethylamine,1,0,0
+10.1039/D0GC00321B,ethanol,ethanol,sodium sulfinates1,sodium sulfinates1,1,1,1
+10.1039/D0GC00321B,ethyl acetate / hexane,NONE, 4-methylbenzenesulfonamide,NONE,0,0,0
+10.1002/chem.201405190,petroleum ether,petroleum ether,(3-(Furan-2-yl)-2-(4-methoxyphenyl)-1-methyl-1H-inden-1-yloxy)trimethylsilan,(3-(Furan-2-yl)-2-(4-methoxyphenyl)-1-methyl-1H-inden-1-yloxy)trimethylsilane,1,1,1
+10.1002/chem.201200390,dichloromethane,dichloromethane,"2-(1Â´-Hydro-1Â´,2Â´-dicarbadodecaboran-2Â´-yl)-1,3-diethyl-1,3,2-benzodiazaborole",sublimate,1,0,0
+10.1002/chem.201200390,dichloromethane and n-hexanes,dichloromethane,"2-(1Â´-Methyl-1Â´,2Â´-dicarbadodecaboran-2Â´-yl)-1,3-diphenyl-1,3,2-benzodiazaborole",1-methyl-2-lithio-o-carborane,0,0,0
+10.1002/chem.201200390,dichloromethane and n-hexanes,dichloromethane,"2-(1 Â´ -t-Butyl-1 Â´ ,2 Â´ -dicarbadodecaboran-2 Â´ -yl)-1,3-diethyl-1,3,2-benzodiazaborole","2-(1 Â´ -t-Butyl-1 Â´ ,2 Â´ -dicarbadodecaboran-2 Â´ -yl)-1,3-diethyl-1,3,2-benzodiazaborole",0,1,0
+10.1002/chem.201200390,dichloromethane and n-hexanes,NONE,"2-(1Â´-Trimethylsilyl-1Â´,2Â´-dicarbadodecaboran-2Â´-yl)-1,3-diethyl-1,3,2-benzodiazaborole",NONE,0,0,0
+10.1002/chem.201200390,dichloromethane and n-hexanes,NONE,"2-(1Â´-Methyl-1Â´,2Â´-dicarbadodecaboran-2Â´-yl)-1,3-diphenyl-1,3,2-benzodiazaborole",NONE,0,0,0
+10.1039/C9OB01907C,MeOH,MeOH,rac-3,THF,1,0,0
+10.1039/C9OB01907C,CH2Cl2 - hexane,NONE,3,NONE,0,0,0
+10.1002/anie.201904940,acetone / D2O,acetone / D2O,"Monodeuterated tetramethylammonium of 7,8-nido-C2B9H12âˆ’",Deuterium,1,0,0
+10.1039/b820502g,CH2Cl2 / hexane,DMF,"6,11-Dihydro-1,16-bis(4-methoxyphenyl)-3,14-dimethylbisbenzimidazo[1,2-b:2â€™,1â€™-d][2,5]benzodiazocine ","1,1â€™-bridged 4,4â€™-diaryl-2,2â€™-bibenzimidazoles",1,0,0
+10.1039/b820502g,DMF,NONE,"7,8-Dihydro-1,13-bis(4-methoxyphenyl)-3,11-dimethyl-6H-benzimidazo[2â€™,1â€™:3,4] [1,4]diazino[1,2-a]benzimidazole",NONE,0,0,0
+10.1002/anie.201209030,benzene and hexanes,benzene,"(1R,4aS,11aS)-8-Methoxy-1-methyl-5-oxo-2,3,4,4a,5,10,11,11aoctahydro-1H-dibenzo[a,d][7]annulene-1-carbonitrile",EtOAc,0,0,0
+10.1002/anie.201209030,benzene and hexanes,NONE,"(4R,4aR,6aS,10aR,13bS,14S)-15-hydroxy-4-methyloctahydro-1H6a,13b,9-(epiethane[1,1,2]triyl)-4,13-methanodibenzo[2,3:6,7]cyclohepta[1,2-d]oxazole-8,12(7H,13aH)-dione (4a)",NONE,0,0,0
+10.1002/adsc.201300462,heptane / CH2Cl2,heptane / CH2Cl2,1p,xanthone,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,rac-3a,-S12-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,rac-3b,-S14-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,meso-3f,-S19-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,3g,-S21-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,3h,-S22-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,meso-3j,-S23-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,meso-3k,-S25-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,"(S,S,S,S)-3k",-S32-,1,0,0
+10.1002/adsc.201300462,heptane / CH2Cl2,heptane / CH2Cl2,3i,-S39-,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,3l,CHCl3,1,0,0
+10.1002/adsc.201300462,heptane / CH2Cl2,heptane / CH2Cl2,3m,CH2Cl2,1,0,0
+10.1002/adsc.201300462,heptane and CH2Cl2,heptane and CH2Cl2,3n,heptane,1,0,0
+10.1002/chem.201802491,hexane,hexane,(R)-3aa-BH3,Area 223978 1172763,1,0,0
+10.1002/chem.201802491,hexane,hexane,(R)-3aa-BH3,hexane,1,0,0
+10.1002/chem.201602905,EtOAc / n-pentane,EtOAc,"(S)-\xadâ€tert-\xadâ€butyl ( 1-\xadâ€(2-\xadâ€(2,2-\xadâ€diphenylacetamido)-\xadâ€4-\xadâ€(trifluoromethyl)phenoxy)-\xadâ€3,3-\xadâ€dimethylbutan-\xadâ€2-\xadâ€ yl)carbamate","(S)-Â­â€tert-Â­â€butyl ( 1-Â­â€(2-Â­â€(2,2-Â­â€diphenylacetamido)-Â­â€4-Â­â€(trifluoromethyl)phenoxy)-Â­â€3,3-Â­â€dimethylbutan-Â­â€2-Â­â€ yl)carbamate",0,1,0
+10.1002/chem.201602905,EtOAc / n-pentane,EtOAc,"(S)-\xadâ€2-\xadâ€((2-\xadâ€(2,2-\xadâ€diphenylacetamido)-\xadâ€4-\xadâ€(trifluoromethyl)phenyl)amino)-\xadâ€3,3-\xadâ€dimethylbutyl acetate","(S)-Â­â€2-Â­â€((2-Â­â€(2,2-Â­â€diphenylacetamido)-Â­â€4-Â­â€(trifluoromethyl)phenyl)amino)-Â­â€3,3-Â­â€dimethylbutyl acetate",0,1,0
+10.1002/chem.201602905,EtOAc / n-pentane,EtOAc,"(S)-\xadâ€tert-\xadâ€butyl ( 1-\xadâ€(2-\xadâ€(2-\xadâ€(2,6-\xadâ€dichlorophenyl)acetamido)-\xadâ€4-\xadâ€(trifluoromethyl)phenoxy)-\xadâ€3,3-\xadâ€ dimethylbutan-\xadâ€2-\xadâ€yl)carbamate","(S)-Â­â€tert-Â­â€butyl ( 1-Â­â€(2-Â­â€(2-Â­â€(2,6-Â­â€dichlorophenyl)acetamido)-Â­â€4-Â­â€(trifluoromethyl)phenoxy)-Â­â€3,3-Â­â€ dimethylbutan-Â­â€2-Â­â€yl)carbamate",0,1,0
+10.1002/chem.201602905,EtOAc / n-pentane,EtOAc,"(S)-\xadâ€tert-\xadâ€butyl ( 3,3-\xadâ€dimethyl-\xadâ€1-\xadâ€(2-\xadâ€(2-\xadâ€(4-\xadâ€nitrophenyl)acetamido)-\xadâ€4-\xadâ€ (trifluoromethyl)phenoxy)butan-\xadâ€2-\xadâ€yl)carbamate","(S)-Â­â€tert-Â­â€butyl ( 3,3-Â­â€dimethyl-Â­â€1-Â­â€(2-Â­â€(2-Â­â€(4-Â­â€nitrophenyl)acetamido)-Â­â€4-Â­â€ (trifluoromethyl)phenoxy)butan-Â­â€2-Â­â€yl)carbamate",0,1,0
+10.1002/chem.201602905,EtOAc / n-pentane,EtOAc,"(S)-\xadâ€tert-\xadâ€butyl ( 1-\xadâ€(2-\xadâ€(9H-\xadâ€fluorene-\xadâ€9-\xadâ€carboxamido)-\xadâ€4-\xadâ€(trifluoromethyl)phenoxy)-\xadâ€3,3-\xadâ€ dimethylbutan-\xadâ€2-\xadâ€yl)carbamate","(S)-Â­â€tert-Â­â€butyl ( 1-Â­â€(2-Â­â€(9H-Â­â€fluorene-Â­â€9-Â­â€carboxamido)-Â­â€4-Â­â€(trifluoromethyl)phenoxy)-Â­â€3,3-Â­â€ dimethylbutan-Â­â€2-Â­â€yl)carbamate [15]",0,1,0
+10.1002/chem.201602905,EtOAc / pentanes,EtOAc,"3,3,3-\xadâ€trifluoro-\xadâ€N-\xadâ€(2-\xadâ€methoxy-\xadâ€5-\xadâ€(trifluoromethyl)phenyl)-\xadâ€2-\xadâ€(trifluoromethyl)propanamide","3,3,3-Â­â€trifluoro-Â­â€N-Â­â€(2-Â­â€methoxy-Â­â€5-Â­â€(trifluoromethyl)phenyl)-Â­â€2-Â­â€(trifluoromethyl)propanamide [25]",0,1,0
+10.1002/chem.201602905,pentanes,NONE,"(S)-N-(2-(3,3-dimethyl-2-(2,2,2-trifluoroacetamido)butoxy)-5-(trifluoromethyl)phenyl)-3,3,3-",NONE,0,0,0
+10.1002/chem.201602905,n-heptane,NONE,"(S)-N-(3,3-dimethyl-1-(4-(trifluoromethyl)-2-(9H-xanthene-9-carboxamido)phenoxy)butan-2-yl)-9H-xanthene-9-carboxamide",NONE,0,0,0
+10.1039/b820621j,hexanes,hexanes,"dithieno[2,3-b:3â€™,2â€™-d]thiophene",3-bromo-thiophene,1,0,0
+10.1039/b820621j,hexanes,hexanes,tetrathienoacene,ether,1,0,0
+10.1039/b820621j,hexanes,NONE,asymmetric DS-DTT,NONE,0,0,0
+10.1039/c0cc00638f,hexanes : CH2Cl2,hexanes : CH2Cl2,"di-N,Nâ€²-dimesityl-4,6-diketo-5,5-dimethylpyrimidinyl ether, [(2Â·H)2(Î¼-O)]","2-hydroxy-1,3-dimesityl-4,6-diketo-5,5-dimethylpyrimidine",1,0,0
+10.1039/c0cc00638f,Ch2Cl2 and hexanes,NONE,"2-amino-1,3-bis(2,6-diisopropylphenyl)- 4,6-diketo-5,5-dimethylpyrimidine",NONE,0,0,0
+10.1039/c2sc20719b,ethyl acetate,ethyl acetate,4,C26H23BrO4,1,0,0
+10.1039/C7CC06268K,methanol,methanol,unclear,sodium sulfate,1,0,0
+10.1039/c2jm32809g,CH2Cl2 / n-hexane,CH2Cl2 / n-hexane,3-Jan,1H,1,0,0
+10.1002/chem.201504310,hexane / EtOAc,hexane / EtOAc,2-(7a-(iodomethyl)-2-oxooctahydrobenzofuran-7-yl)acetaldehyde,C13H19IO2Na,1,0,0
+10.1002/chem.201504310,hexane / CCl4,hexane / CCl4,"7-allylideneoctahydro-2H-pentaleno[6a,1-b]furan-2-one",acetate,1,0,0
+10.1002/chem.201504310,hexane / CCl4,hexane / CCl4,"7,7-dimethyloctahydro-2H-pentaleno[6a,1-b]furan-2-one","8-methyldecahydro-2H-naphtho[8a,1-b]furan-2- one",1,0,0
+10.1002/chem.201504310,hexane / CCl4,NONE,"7-hydroxy-7-methyloctahydro-2H-pentaleno[6a,1-b]furan-2-one",NONE,0,0,0
+10.1002/chem.201504310,hexane / THF,NONE,8-hydroxy-8-methyloctahydroindeno[4-b]furan-2(3H)-one,NONE,0,0,0
+10.1039/C4OB01179A,Et2O / hexane,Et2O,2i,C23H23N3NaO2S,0,0,0
+10.1021/acs.inorgchem.7b00278,DCM,NONE,UNKNOWN PRODUCT,NONE,0,0,0
+10.1021/ol303366u,EtOAc,EtOAc,image,Na2SO4,1,0,0
+10.1021/ol034550o,petroleum ether / ethyl acetate,NONE,ALL PRODUCTS,NONE,0,0,0
+10.1021/jacs.6b04656,ethanol / n-pentane,ethanol / n-pentane,-hexylidene-4-(4-methoxy)phenylthiosemicarbazone (2),hexanal,1,0,0
+10.1021/jacs.6b04656,ethanol/n-pentane,NONE,1-hexylidene-4-(4-trifluoromethyl)phenylthiosemicarbazone (3),NONE,0,0,0
+10.1021/jacs.6b04656,ethanol,NONE,"-phenylamino-5-pentyl-1,3,4-thiadiazole (10)",NONE,0,0,0
+10.1021/jacs.6b04656,ethanol/n-pentane,NONE,Synthesis of 1-hexylidene-4-phenylthiosemicarbazone (1),NONE,0,0,0
+10.1021/jacs.6b05436,hexane,hexane,"1-bromo-3,5-dimethylbenzene","1-bromo-3,5-dimethylbenzene",1,1,1
+10.1039/C5CC05549K,methanol,methanol,NONE,WATERS-Q-Tof-Premier-ESI-MS,1,0,0
+10.1039/C5CC05549K,methanol,methanol,(Z)-N-((Z)-3-benzyl-5-benzylidene-4-phenylthiazolidin-2-ylidene)-4-ethylaniline,(Z)-N-((Z)-3-benzyl-5-benzylidene-4-phenylthiazolidin-2-ylidene)-4-ethylaniline,1,1,1
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((Z)-5-benzylidene-3,4-diphenylthiazolidin-2-ylidene)-4-methoxybenzamide","(Z)-N-((Z)-5-benzylidene-3,4-diphenylthiazolidin-2-ylidene)-4-methoxybenzamide",1,1,1
+10.1039/C5CC05549K,methanol,methanol,(Z)-N-((Z)-5-benzylidene-3-(4-chlorophenyl)-4-(4-methoxyphenyl)thiazolidin-2-ylidene)benzamide,C31H24,1,0,0
+10.1039/C5CC05549K,methanol,methanol,(Z)-N-((Z)-4-(4-bromophenyl)-3-(4-chlorophenyl)-5-(4-methylbenzylidene)thiazolidin-2-ylidene)benzamide,C27H27,1,0,0
+10.1039/C5CC05549K,methanol,methanol,(Z)-N-((Z)-5-benzylidene-4-(4-methoxyphenyl)-3-phenylthiazolidin-2-ylidene)benzamide,zamide,1,0,0
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((S,Z)-3,4-bis(4-chlorophenyl)-5-(4-methylbenzylidene)thiazolidin-2-ylidene) benzamide","(Z)-N-((S,Z)-3,4-bis(4-chlorophenyl)-5-(4-methylbenzylidene)thiazolidin-2-ylidene) benzamide",1,1,1
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((S,Z)-5-benzylidene-4-(4-chlorophenyl)-3-phenylthiazolidin-2-ylidene)-4- bromobenzamide","(Z)-N-((S,Z)-5-benzylidene-4-(4-chlorophenyl)-3-phenylthiazolidin-2-ylidene)-4- bromobenzamide",1,1,1
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((S,Z)-5-benzylidene-4-(4-bromophenyl)-3-phenylthiazolidin-2-ylidene)benzamide","(Z)-N-((S,Z)-5-benzylidene-4-(4-bromophenyl)-3-phenylthiazolidin-2-ylidene)benzamide",1,1,1
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((S,Z)-5-benzylidene-3-(4-chlorophenyl)-4-(4-methoxyphenyl)thiazolidin-2- ylidene)benzamide","(Z)-N-((S,Z)-5-benzylidene-3-(4-chlorophenyl)-4-(4-methoxyphenyl)thiazolidin-2- ylidene)benzamide",1,1,1
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((S,Z)-5-benzylidene-4-(4-methoxyphenyl)-3-phenylthiazolidin-2-ylidene)-4- methoxybenzamide","(Z)-N-((S,Z)-5-benzylidene-4-(4-methoxyphenyl)-3-phenylthiazolidin-2-ylidene)-4- methoxybenzamide",1,1,1
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((Z)-5-benzylidene-3,4-diphenylthiazolidin-2-ylidene)-4-methoxybenzamide",toluene,0,0,0
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((Z)-5-benzylidene-3,4-diphenylthiazolidin-2-ylidene)-4-methoxybenzamide",C29H21,1,0,0
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((S,Z)-5-benzylidene-3-(4-chlorophenyl)-4-p-tolylthiazolidin-2-ylidene)benzamide",PrOH,1,0,0
+10.1039/C5CC05549K,methanol,methanol,(Z)-N-((Z)-5-benzylidene-3-(4-chlorophenyl)-4-(4-methoxyphenyl)thiazolidin-2-ylidene)benzamide,CHCl3,1,0,0
+10.1039/C5CC05549K,methanol,methanol,"(Z)-N-((Z)-5-benzylidene-3,4-bis(4-chlorophenyl)thiazolidin-2-ylidene)benzamide",1H,1,0,0
+10.1039/C5CC05549K,methanol,NONE,(E)-N-((Z)-3-benzyl-5-benzylidene-4-phenylthiazolidin-2-ylidene)-1-phenylmethanamine,NONE,0,0,0
+10.1039/C5CC05549K,methanol,NONE,(Z)-N-((Z)-5-benzylidene-3-(4-chlorophenyl)-4-(4-methoxyphenyl)thiazolidin-2-ylidene)-4-methoxybenzamide,NONE,0,0,0
+10.1039/C5CC05549K,methanol,NONE,"(Z)-N-((Z)-5-benzylidene-3,4-bis(4-chlorophenyl)thiazolidin-2-ylidene)benzamide",NONE,0,0,0
+10.1039/C5CC05549K,methanol,NONE,"(Z)-4-bromo-N-((S,Z)-4-(4-chlorophenyl)-5-(4-methylbenzylidene)-3-p-tolylthiazolidin-2-ylidene)benzamide",NONE,0,0,0
+10.1039/C5CC05549K,methanol,NONE,((Z)-N-((Z)-5-benzylidene-4-(4-bromophenyl)-3-(4-chlorophenyl)thiazolidin-2-ylidene)benzamide,NONE,0,0,0
+10.1039/C5CC05549K,methanol,NONE,(Z)-N-((Z)-5-benzylidene-3-(4-chlorophenyl)-4-(4-methoxyphenyl)thiazolidin-2-ylidene)benzamide,NONE,0,0,0
+10.1039/C5CC05549K,methanol,NONE,(Z)-N-((Z)-5-benzylidene-4-(4-methoxyphenyl)-3-phenylthiazolidin-2-ylidene)-4-bromo benzamide,NONE,0,0,0
+10.1021/ja404045f,diethyl ether,diethyl ether,9-Anthryl)disilacyclopropanimine,xylylisocyanide,1,0,0
+10.1021/ja404045f,diethyl ether,NONE,3-Silylene-2-silaaziridine,NONE,0,0,0
+10.1021/ja404045f,diethyl ether,NONE,(1-Naphthyl)disilacyclopropanimine,NONE,0,0,0
+10.1021/ol201752e,toluene,toluene,5 or 6,Cyclic Guanidines,1,0,0
+10.1021/jo035430x,hexane,hexane,9,O 15,1,0,0
+10.1021/jo035430x,hexane,hexane,12a,O (+)-9,1,0,0
+10.1021/jo035430x,hexane,hexane,13a,(-)-13a,1,0,0
+10.1021/jo035430x,hexane,hexane,the alchohol,(+)-12a,1,0,0
+10.1021/jo035430x,CHCl3,CHCl3,10b,EtOAc-hexane,1,0,0
+10.1021/jo035430x,hexane,hexane,13b,OMOM,1,0,0
+10.1021/jo035430x,hexane,hexane,15,1H,1,0,0
+10.1021/jo035430x,hexane,hexane,16,O,1,0,0
+10.1021/jo035430x,hexane,NONE,9,NONE,0,0,0
+10.1021/jo035430x,CHCl3,NONE,10a,NONE,0,0,0
+10.1021/jo035430x,CHCl3,NONE,10b,NONE,0,0,0
+10.1021/jo035430x,hexane,NONE,12a,NONE,0,0,0
+10.1021/jo035430x,hexane,NONE,the alcohol,NONE,0,0,0
+10.1021/jo035430x,hexane,NONE,13a,NONE,0,0,0
+10.1021/jo035430x,Ch2Cl2-hexane,NONE,The diol,NONE,0,0,0
+10.1039/c9sc04308j,EtOAc-Hexane,NONE,2ga,NONE,0,0,0
+10.1039/c2sc21214e,acetonitrile,NONE,(NHCMe)2NiCl2,NONE,0,0,0
+10.1039/c4py00265b,EtOAc,NONE,10,NONE,0,0,0
+10.1039/c8sc04303e,CH2Cl2,NONE,1a,NONE,0,0,0
+10.1039/c6ce01765g,MeOH,NONE,Sangiunarium chloride,NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(SePhI 2 )(Br)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[{Acenap(SePhBr)(SePh)} + {Br 3 } - {Br 2 }],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[{Acenap(SePhBr)(SPh)} + {Br 3 } - ],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(SePhI 2 )(SePh)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(SePhI 2 )(SPh)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhBr 2 )(Br)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhI 2 )(Br)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhBr 2 )(SPh)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhBr 2 )(Br)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhI 2 )(Br)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhBr 2 )(SPh)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhBr 2 )(SePh)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhI 2 )(SPh)],NONE,0,0,0
+10.1039/c2dt12031c,DCM,NONE,[Acenap(TePhI 2 )(SePh)],NONE,0,0,0
+10.1039/c2dt12031c,dimethulformamide,NONE,[Acenap(BrTePh) 2 O],NONE,0,0,0
+10.1039/c8cc09415b,hexane/dcm,NONE,2-Azido-N-(6-azidohexyl)-N-(3-(2-(hydroxyimino)acetyl)phenyl)acetamide,NONE,0,0,0
+10.1039/c0cc01282c,chloroform,NONE,"2,3,8,9-bisdioxolyldibenzo[c,g]-1,2,5,6-tetrathiocine",NONE,0,0,0
