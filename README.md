@@ -1,12 +1,12 @@
 # Extracting crystallization solvent from materials science literature
 The repository contains files for extracting crystallization solvent from supplementary information PDFs using Natural Lanugage Processing (NLP).
 
-# Running the example code.
+## Running the example code.
 The example code can be run on google colaboratory using this link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caer200/solvent_nlp/blob/main/example.ipynb)
 
 No installation is required.
 
-# Rules for extarcting crystallization solvent
+## Rules for extarcting crystallization solvent
 The crystallization solvent is extracted using rule-based method. The general rule is to search for solvent that follows the word crystallize or recrystallize. Shown below are the rules from [solvent_parser.py](solvent_parser.py) file.
 
 ```
@@ -27,6 +27,12 @@ Here `solvent` accounts for variations in mentions of crystallization solvent. T
 - recrystallized in 
 
 `crys_sol` combines the `prefix` and `solvent` so that the text can be parsed to extract the solvent.
+
+## File
+- [solvent_nlp.py](solvent_nlp.py) contains the code for parsing crystallization solvent
+- [webscrapper.py](webscarpper.py) contains the code for downloading SI in PDF format. See [example.py](example.py) for usage
+- [extracted_data.csv](extracted_data.csv) has the data extracted from randomly selected 100 SI PDF files
+- [results.xlxs](results.xlxs) show the computation of F1 scores for the extracted data
 
 ## Disclaimer
 Web scraping articles from publishers website may need prior approval. The web scraping code provide here by the authors is for demonstration purpose only.
