@@ -32,7 +32,7 @@ Here `solvent` accounts for variations in mentions of crystallization solvent. T
 - [solvent_nlp.py](solvent_nlp.py) contains the code for parsing crystallization solvent
 - [webscraping.py](webscarping.py) contains the code for downloading SI in PDF format. See [example.py](example.py) for usage
 - [extracted_data.csv](extracted_data.csv) has the data extracted from randomly selected 100 SI PDF files
-- [results.xlxs](results.xlxs) show the computation of F1 scores for the extracted data
+- [results.xlsx](results.xlsx) show the computation of F1 scores for the extracted data
 - [example.py](example.py) has the sample code for extracting the crystallization solvent from a PDF file.
 
 ## Disclaimer
