@@ -28,11 +28,12 @@ Here `solvent` accounts for variations in mentions of crystallization solvent. T
 
 `crys_sol` combines the `prefix` and `solvent` so that the text can be parsed to extract the solvent.
 
-## File
+## Files in this repository
 - [solvent_nlp.py](solvent_nlp.py) contains the code for parsing crystallization solvent
 - [webscraping.py](webscarping.py) contains the code for downloading SI in PDF format. See [example.py](example.py) for usage
 - [extracted_data.csv](extracted_data.csv) has the data extracted from randomly selected 100 SI PDF files
 - [results.xlxs](results.xlxs) show the computation of F1 scores for the extracted data
+- [example.py](example.py) has the sample code for extracting the crystallization solvent from a PDF file.
 
 ## Disclaimer
 Web scraping articles from publishers website may need prior approval. The web scraping code provide here by the authors is for demonstration purpose only.
