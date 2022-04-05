@@ -33,7 +33,7 @@ Here `solvent` accounts for variations in mentions of crystallization solvent. T
 - [webscraping.py](webscarping.py) contains the code for downloading SI in PDF format. See [example.py](example.py) for usage
 - [extracted_data.csv](extracted_data.csv) has the data extracted from randomly selected 100 SI PDF files
 - [results.xlsx](results.xlsx) show the computation of F1 scores for the extracted data
-- [example.py](example.py) has the sample code for extracting the crystallization solvent from a PDF file.
+- [example.ipynb](example.ipynb) has the sample code for extracting the crystallization solvent from a PDF file.
 
 ## Disclaimer
 Web scraping articles from publishers website may need prior approval. The web scraping code provide here by the authors is for demonstration purpose only.
