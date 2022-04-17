@@ -4,7 +4,7 @@ The repository contains files for extracting crystallization solvent from supple
 ## Running the example code.
 The example code can be run on google colaboratory using this link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caer200/solvent_nlp/blob/main/example.ipynb)
 
-No installation is required.
+No local installation is required.
 
 ## Rules for extarcting crystallization solvent
 The crystallization solvent is extracted using rule-based method. The general rule is to search for solvent that follows the word crystallize or recrystallize. Shown below are the rules from [solvent_parser.py](solvent_parser.py) file.
