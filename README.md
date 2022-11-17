@@ -1,5 +1,6 @@
-# Extracting crystallization solvent from materials science literature
-The repository contains files for extracting crystallization solvent from supplementary information PDFs using Natural Lanugage Processing (NLP).
+# Challenges in Information-Mining the Materials Literature: A Case Study and Perspective
+
+The repository contains files for extracting crystallization solvent from supplementary information PDFs using Natural Lanugage Processing (NLP). Check out the published article [here](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c00445).
 
 ## Running the example code.
 The example code can be run on google colaboratory using this link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caer200/solvent_nlp/blob/main/example.ipynb)
@@ -37,3 +38,10 @@ Here `solvent` accounts for variations in mentions of crystallization solvent. T
 
 ## Disclaimer
 Web scraping articles from publishers website may need prior approval. The web scraping code provide here by the authors is for demonstration purpose only.
+
+## Citing
+If you find this useful, please cite the following article -
+
+Smith, A.; Bhat, V.; Ai, Q.; Risko, C. Challenges in Information-Mining the Materials Literature: A Case Study and Perspective. Chemistry of Materials 2022, 34 (11), 4821–4827. [https://doi.org/10.1021/acs.chemmater.2c00445](https://doi.org/10.1021/acs.chemmater.2c00445).
+
+
